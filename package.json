@@ -1,6 +1,6 @@
 {
   "name": "sco-test-1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It's just a test :)",
   "main": "index.js",
   "scripts": {
