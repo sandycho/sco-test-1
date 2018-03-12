@@ -1,6 +1,6 @@
 {
   "name": "sco-test-1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It's just a test :)",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sandycho/test_npm_module.git"
+    "url": "git+https://github.com/sandycho/sco-test-1.git"
   },
   "keywords": [
     "npm",
@@ -21,7 +21,7 @@
   "author": "Sandy Chuchuca <sandy.chuchuca@gmail.com> (https://www.protoinformatico.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sandycho/test_npm_module/issues"
+    "url": "https://github.com/sandycho/sco-test-1/issues"
   },
-  "homepage": "https://github.com/sandycho/test_npm_module#readme"
+  "homepage": "https://github.com/sandycho/sco-test-1#readme"
 }
